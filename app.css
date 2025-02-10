@@ -1,0 +1,26 @@
+#clock{
+    position: relative;
+    left: 600px;
+    text-align: center;
+    top: 150px;
+    font-size:118px;
+    color: rgb(38, 255, 0);
+    border-radius:6px;
+    background: none;
+    border: solid rgb(28, 255, 7);
+}
+#clock:hover{
+background: rgba(255, 255, 255, 0.359);
+color: rgba(255, 254, 254, 0.984);
+border: 3px solid rgb(255, 255, 255);
+font-size: 150px;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px;
+   
+}
+
+
+
